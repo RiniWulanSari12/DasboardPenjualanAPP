@@ -2,7 +2,7 @@
 ## _Analisis Data Penjualan Produk_
 
 ### Deskripsi
-Dashboard ini memungkinkan Anda untuk melihat total penjualan berdasarkan tahun yang dipilih dan kategori produk. Dengan antarmuka yang ramah pengguna, Anda dapat dengan mudah menjelajahi data penjualan Anda dan mendapatkan wawasan yang berarti.
+Dashboard ini memungkinkan Anda untuk melihat total penjualan berdasarkan tahun yang dipilih dan kategori produk
 
 ## Fitur
 - Memfilter data berdasarkan tahun dan kategori produk
