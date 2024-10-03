@@ -4,12 +4,6 @@
 ### Deskripsi
 Dashboard ini memungkinkan Anda untuk melihat total penjualan berdasarkan tahun yang dipilih dan kategori produk
 
-## Fitur
-- Memfilter data berdasarkan tahun dan kategori produk
-- Menampilkan total penjualan dan jumlah kategori yang terjual
-- Menggambarkan grafik penjualan produk teratas secara interaktif
-- Ekspor data sebagai CSV atau PDF (rencana fitur masa depan)
-
 ## Open Source
 
 - [Streamlit] - Kerangka kerja untuk membuat aplikasi web dengan Python
