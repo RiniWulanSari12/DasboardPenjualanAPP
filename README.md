@@ -1,33 +1,25 @@
-# Dashboard Penjualan
-## _Analisis Data Penjualan Produk_
+# Dashboard Data Penjualan
 
-### Deskripsi
-Dashboard ini memungkinkan Anda untuk melihat total penjualan berdasarkan tahun yang dipilih dan kategori produk
+## Setup Environment - Anaconda
 
-## Open Source
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install -r requirements.txt
+```
 
-- [Streamlit] - Kerangka kerja untuk membuat aplikasi web dengan Python
-- [Pandas] - Library Python untuk analisis data
-- [Plotly] - Library untuk visualisasi data interaktif
-- [Matplotlib] - Library untuk membuat grafik statis, animasi, dan interaktif
+## Setup Environment - Shell/Terminal
 
-## Instalasi
+```
+mkdir TugasAnalisisPython
+cd TugasAnalisisPython
+pipenv install
+pipenv shell
+pip install -r requirements.txt
+```
 
-1. Clone repository ini:
+## Run steamlit app
 
-    ```sh
-    git clone https://github.com/RiniWulanSari12/DasboardPenjualanAPP.git
-    cd DasboardPenjualanAPP
-    ```
-
-2. Install dependensi yang diperlukan:
-
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-3. Jalankan aplikasi:
-
-    ```sh
-    streamlit run app.py
-    ```
+```
+streamlit run dasboard.py
+```
